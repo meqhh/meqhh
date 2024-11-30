@@ -1,5 +1,5 @@
-<h2>Aku mau menghijaukan profil ini.<br>
-Tapi apa? yak saya MALAS😹</h2>
+<h2>Aku ingin menghijaukan profil ini.<br>
+Tapi apa?... yak saya MALAS😹</h2>
 
 <p>Mending lanjut tidur</p>
 <!--- ```php
