@@ -1,4 +1,4 @@
-<b>Saya Malas Ngoding</b>
+<h1>Saya Malas Ngoding</h1>
 
 <!---
 meqhh/meqhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
