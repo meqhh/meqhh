@@ -15,16 +15,29 @@ Tapi apa?... yak saya MALAS😹</h2>
 <h2>Ngapain liat-liat github gw 😹</h2>
 
 ### Cuman bisa
+
+#### Bahasa:
 <ul>
-<b>Bahasa:</b>
   <li>Bahasa ular (python)</li>
   <li>Bahasa gajah yang nama functionnya gajelas (PHP)</li>
   <li>Script Jawa (JavaScript)</li>
 <br />
-<b>Database:</b>
+
+</ul>
+
+#### Database:
+<ul>
   <li>Semua db yang berbasis SQL</li>
+  <ol type="1">
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>SQLite</li>
+  </ol>
 <br/>
-<b>Framework:</b>
+</ul>
+
+#### Framework
+<ul>
   <li>Odoo</li>
   <li>Django</li>
   <li>Laravel (Katanya fremeword ini bisa membuat developer bisa beli lambo 🤑)</li>
