@@ -14,12 +14,12 @@ Tapi apa?... yak saya MALAS😹</h2>
 
 <h2>Ngapain liat-liat github gw 😹</h2>
 
-Cuman bisa
+### Cuman bisa
 <ul>
 <b>Bahasa:</b>
-  <li>Python</li>
-  <li>PHP</li>
-  <li>Javascript (Basic)</li>
+  <li>Bahasa ular (python)</li>
+  <li>Bahasa gajah yang nama functionnya gajelas (PHP)</li>
+  <li>Script Jawa (JavaScript)</li>
   <li>Semua db berbasis SQL</li>
 <br/>
 <b>Framework:</b>
@@ -28,4 +28,5 @@ Cuman bisa
   <li>Laravel (Katanya fremeword ini bisa membuat developer bisa beli lambo 🤑)</li>
   <li>Next.js (API doang)</li>
   <li>React.js</li>
+  <li>Ekor angin (Tailwind.css)</li>
 </ul>
