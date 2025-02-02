@@ -10,5 +10,22 @@ Tapi apa?... yak saya MALAS😹</h2>
 </div>
 <br/>
 
+<p>Tuhan jauhkan hamba dari tugas Front-End (gasuka HTML ama CSS woilah 😹)</p>
+
 <h2>Ngapain liat-liat github gw 😹</h2>
 
+Cuman bisa
+<ul>
+<b>Bahasa:</b>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>Javascript (Basic)</li>
+  <li>Semua db berbasis SQL</li>
+<br/>
+<b>Framework:</b>
+  <li>Odoo</li>
+  <li>Django</li>
+  <li>Laravel (Katanya fremeword ini bisa membuat developer bisa beli lambo 🤑)</li>
+  <li>Next.js (API doang)</li>
+  <li>React.js</li>
+</ul>
