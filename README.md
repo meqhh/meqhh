@@ -20,7 +20,9 @@ Tapi apa?... yak saya MALAS😹</h2>
   <li>Bahasa ular (python)</li>
   <li>Bahasa gajah yang nama functionnya gajelas (PHP)</li>
   <li>Script Jawa (JavaScript)</li>
-  <li>Semua db berbasis SQL</li>
+<br />
+<b>Database:</b>
+  <li>Semua db yang berbasis SQL</li>
 <br/>
 <b>Framework:</b>
   <li>Odoo</li>
