@@ -42,7 +42,7 @@ Tapi apa?... yak saya MALAS😹</h2>
   <li>Odoo</li>
   <li>Django</li>
   <li>Laravel (Katanya fremeword ini bisa membuat developer bisa beli lambo 🤑)</li>
-  <li>Next.js (API doang)</li>
+  <li>Express.js</li>
   <li>React.js</li>
   <li>Ekor angin (Tailwind.css)</li>
 </ul>
