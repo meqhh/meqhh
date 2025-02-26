@@ -32,7 +32,6 @@ Tapi apa?... yak saya MALAS😹</h2>
     <li>MySQL</li>
     <li>PostgreSQL</li>
     <li>SQLite</li>
-    <li>MariaDB</li>
   </ol>
 <br/>
 </ul>
