@@ -41,7 +41,7 @@ Tapi apa?... yak saya MALAS😹</h2>
 <ul>
   <li>Odoo</li>
   <li>Django</li>
-  <li>Laravel (Katanya fremework ini bisa membuat developer membeeli lambo 🤑)</li>
+  <li>Laravel (Katanya fremework ini bisa membuat developer membeli lambo 🤑)</li>
   <li>Express.js</li>
   <li>React.js</li>
   <li>Ekor angin (Tailwind.css)</li>
