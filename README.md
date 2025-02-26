@@ -12,7 +12,7 @@ Tapi apa?... yak saya MALAS😹</h2>
 
 <p>Tuhan jauhkan hamba dari tugas Front-End (gasuka HTML ama CSS woilah 😹)</p>
 
-<h2>Ngapain liat-liat github gw 😹</h2>
+<h2>Ngapain liat-liat profile github gw bjir 😹</h2>
 
 ### Cuman bisa
 
