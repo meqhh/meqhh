@@ -10,7 +10,7 @@ Tapi apa?... yak saya MALAS😹</h2>
 </div>
 <br/>
 
-<p>Tuhan jauhkan hamba dari tugas Front-End (gasuka HTML ama CSS woilah 😹)</p>
+<p>Tuhan jauhkan hamba dari task Front-End (gasuka HTML ama CSS woilah 😹)</p>
 
 <h2>Ngapain liat-liat profile github gw bjir 😹</h2>
 
@@ -39,6 +39,7 @@ Tapi apa?... yak saya MALAS😹</h2>
 #### Framework
 <ul>
   <li>Odoo</li>
+  <li>Odoo Owl</li>
   <li>Django</li>
   <li>Laravel</li>
   <li>Express.js</li>
