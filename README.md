@@ -43,6 +43,6 @@ Tapi apa?... yak saya MALAS😹</h2>
   <li>Django</li>
   <li>Laravel</li>
   <li>Express.js</li>
-  <li>React.js</li>
+  <!-- <li>React.js</li> -->
   <li>Ekor angin (Tailwind.css)</li>
 </ul>
